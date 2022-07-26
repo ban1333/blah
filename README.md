@@ -1,2 +1,1 @@
-# smash-tourny
-smash tourny creator
+# shh
